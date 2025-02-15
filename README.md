@@ -1,4 +1,4 @@
-# 1st React App
+# 2st React App
 
 ## Description
 
@@ -14,18 +14,21 @@ This is a test project created using React. The purpose of this project is to pr
 
 Clone the repository :
 
-`bash
-git clone https://github.com/TesterXXXX/1st-react-app.git
+```bash
+git clone https://github.com/Tester1321/1st-react-app.git
+```
 
 Install dependencies :
 
-`bash
+```bash
 npm install
+```
 
 Start the development server :
 
-`bash
+```bash
 npm run dev
+```
 
 ## Features
 
