@@ -15,7 +15,7 @@ This is a test project created using React. The purpose of this project is to pr
 Clone the repository :
 
 ```bash
-git clone https://github.com/Tester1321/1st-react-app.git
+git clone https://github.com/Tester1321/2nd-React.git
 ```
 
 Install dependencies :
