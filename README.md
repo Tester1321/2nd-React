@@ -1,4 +1,4 @@
-# 2st React App
+# 2nd React App
 
 ## Description
 
